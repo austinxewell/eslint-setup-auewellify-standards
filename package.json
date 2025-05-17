@@ -1,8 +1,8 @@
 {
-  "name": "eslint-setup-bon",
+  "name": "eslint-setup-auewellify-standards",
   "version": "1.0.0",
   "bin": {
-    "eslint-setup-bon": "./bin/index.js"
+    "eslint-setup-auewellify-standards": "./bin/index.js"
   },
   "type": "module"
 }

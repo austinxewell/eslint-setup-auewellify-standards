@@ -1,0 +1,8 @@
+{
+  "name": "eslint-setup-bon",
+  "version": "1.0.0",
+  "bin": {
+    "eslint-setup-bon": "./bin/index.js"
+  },
+  "type": "module"
+}
